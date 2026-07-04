@@ -10,7 +10,18 @@ The objective was to design and build a fully functional physical prototype comb
 * **Electronics:** Schematics and circuit design created using KiCad (`Schematics.kicad_sch`)
 * **3D Modeling & Mechanics:** Chassis and legs modeled in Autodesk Fusion 360 (`.f3d` and `.svg` files included for 3D printing and laser cutting)
 
-## 📁 Project Structure
+## My Role in the Project
+
+Even though we all had specific assigned roles at the start and I wasn't officially the leader, I naturally stepped up to coordinate a lot of the practical work to keep the project moving forward. 
+
+My main contributions and tasks included:
+
+* **Project Coordination:** I supported teammates, gave instructions, and made sure everyone knew what to do next so our progress didn't stall.
+* **Mechanical Design:** My main personal task was designing the robot's legs to work properly with the internal actuator and attached wheel. I started by crafting simple cardboard prototypes before designing the final vector files in Inkscape.
+* **Digital Fabrication:** I personally handled the manufacturing side, taking full care of operating the 3D printers and laser cutters for the team.
+* **Problem Solving:** The biggest challenge was making the leg structure simple yet sturdy enough. After multiple iterations, I ended up using laser-cut parts assembled with interlocking finger joints. It worked well for our timeline, though with more time, I would have iterated further for even better reliability.
+
+## Project Structure
 
 ```text
 ├── src/
@@ -24,3 +35,4 @@ The objective was to design and build a fully functional physical prototype comb
 └── images/
     ├── Diagram_1.jpg        # System architecture diagram
     └── Diagram_2.jpg        # Structural drawing
+```

@@ -36,3 +36,5 @@ My main contributions and tasks included:
     ├── Diagram_1.jpg        # System architecture diagram
     └── Diagram_2.jpg        # Structural drawing
 ```
+
+![robot](images/robot_prototype_chassis_leg_assembly.jpg) **

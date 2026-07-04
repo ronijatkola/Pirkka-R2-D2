@@ -39,8 +39,8 @@ My main contributions and tasks included:
     ├── electronics_breadboard_motor_driver_test.jpg  # Motor driver testing and breadboard wiring
     ├── electronics_breadboard_sensor_integration.jpg # Microcontroller and optical sensor integration
     └── robot_prototype_chassis_leg_assembly.jpg      # Assembled physical prototype with chassis and legs
-└── video/
-    └── Pirkka-R2-D2
+└── videos/
+    └── Pirkka-R2-D2.mp4   # Video of the robot in action
 ```
 
 ![robot](images/robot_prototype_chassis_leg_assembly.jpg) **

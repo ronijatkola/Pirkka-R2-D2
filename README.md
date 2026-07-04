@@ -33,12 +33,12 @@ My main contributions and tasks included:
 ├── electronics/
 │   └── Schematics.kicad_sch # Complete hardware wiring and circuit schematic
 └── images/
-    ├── Diagram_1.jpg                                 # System architecture diagram
-    ├── Diagram_2.jpg                                 # Structural drawing
-    ├── chassis_3d_print_detailed.jpg                 # Close-up of 3D-printed chassis components
-    ├── electronics_breadboard_motor_driver_test.jpg  # Motor driver testing and breadboard wiring
-    ├── electronics_breadboard_sensor_integration.jpg # Microcontroller and optical sensor integration
-    └── robot_prototype_chassis_leg_assembly.jpg      # Assembled physical prototype with chassis and legs
+│   ├── Diagram_1.jpg                                 # System architecture diagram
+│   ├── Diagram_2.jpg                                 # Structural drawing
+│   ├── chassis_3d_print_detailed.jpg                 # Close-up of 3D-printed chassis components
+│   ├── electronics_breadboard_motor_driver_test.jpg  # Motor driver testing and breadboard wiring
+│   ├── electronics_breadboard_sensor_integration.jpg # Microcontroller and optical sensor integration
+│   └── robot_prototype_chassis_leg_assembly.jpg      # Assembled physical prototype with chassis and legs
 └── videos/
     └── Pirkka-R2-D2.mp4   # Video of the robot in action
 ```
